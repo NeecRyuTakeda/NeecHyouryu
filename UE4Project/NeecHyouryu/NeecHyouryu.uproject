@@ -7,14 +7,6 @@
 		{
 			"Name": "Water",
 			"Enabled": true
-		},
-		{
-			"Name": "TDxUnrealEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
